@@ -3,7 +3,8 @@ I'm Riddim, or Lucinnnia, or Lucy, or Nia....whatever, names are weird. I'm some
 
 ### What do I do?
 short answer: yes.
-long asnwer: I am very sporadic, and tend to jump from project to project. Additionally, I am learning lots of new things as we speak. My main goal is to master [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)), And eventually settle my work in a more stable field. I'd like to eventually become a mod developer.
+
+long answer: I am very sporadic, and tend to jump from project to project. Additionally, I am learning lots of new things as we speak. My main goal is to master [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)), And eventually settle my work in a more stable field. I'd like to eventually become a mod developer.
 
 ### Why are you here?
 Why is anyone here? 
