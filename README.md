@@ -1,6 +1,8 @@
 Hi, I'm Nia. 22 year old transfem linux user. I'm honestly just your average computer nerd.
 I write stuff for things I like using.
 
+Please check out my [Pronouns.page](https://pronouns.page/u/Riddim_GLiTCH)
+
 PC Specs:
 ```
 CPU: AMD Ryzen 5 3600X (12) @ 3.800GHz
