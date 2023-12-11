@@ -1,5 +1,4 @@
-Hi, I'm Yuuki. 22 year old transfem linux user. I'm honestly just your average computer nerd.
-I write stuff for things I like using.
+Hi. I'm Yuuki Skye Takahashi. I'm a 22 year old computer nerd on the internet. My work consists of mostly Discord themes. I Don't really do that much work outside of that anymore.
 
 Please check out my [Pronouns.page](https://pronouns.page/u/Riddim_GLiTCH)
 
