@@ -1,5 +1,7 @@
 # ⋆˖⁺⛧₊༓•✧ Skye's GitHub Profile ✧•༓₊⛧⁺˖⋆
-Hi. My name is Skye, I am also known as "Riddim-GLiTCH" or "RDG" for short.
+
+### <img src="https://raw.githubusercontent.com/Riddim-GLiTCH/Riddim-GLiTCH/main/person.png" alt="icon" width="24"> About Me:
+My name is Skye, I am also known as "Riddim-GLiTCH" or "RDG" for short.
 
 I'm a 22 year old Femboy/Transfem.
 
